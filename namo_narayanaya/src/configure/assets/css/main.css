@@ -828,7 +828,7 @@ section {
 .stats-counter {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
   padding: 80px 0;
-  background-image: url("namo_narayanaya/src/configure/assets/img/album/start_55.png");
+  background-image: url("/workspace/narayanaya-buck/namo_narayanaya/src/configure/assets/img/album/start_55.png");
   background-position: top;
   background-attachment: fixed;
   background-size: cover;
@@ -967,7 +967,7 @@ section {
 # Testimonials Section
 --------------------------------------------------------------*/
 .testimonials{
-  background-image: url("namo_narayanaya/src/configure/assets/img/album/start_13.jpeg");
+  background-image: url("/workspace/narayanaya-buck/namo_narayanaya/src/configure/assets/img/album/start_13.jpeg");
   background-position: center;
   background-attachment: scroll;
   background-size: 70%;
