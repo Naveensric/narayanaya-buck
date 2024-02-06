@@ -73,10 +73,10 @@ render(){
               <div class="member-img">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Malekallu_Tirupathi-balaji%2C_Arsikere.jpg" class="img-fluid" alt=""/>
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="www.twitter.com"><i class="bi bi-twitter"></i></a>
+                  <a href="www.facebook.com"><i class="bi bi-facebook"></i></a>
+                  <a href="www.instagram.com"><i class="bi bi-instagram"></i></a>
+                  <a href="www.linkedin.com"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
