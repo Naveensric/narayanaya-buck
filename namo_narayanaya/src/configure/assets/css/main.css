@@ -76,7 +76,7 @@ section {
 }
 
 .section-bg {
-  background-color: #eee;
+  background-color: #e6e2e2;
   background-image: url('https://scontent.fixm4-3.fna.fbcdn.net/v/t1.6435-9/49015706_1038189626372892_2860931209683271680_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c2f564&_nc_ohc=SM_Z2DZOw_YAX-bAPp3&_nc_ht=scontent.fixm4-3.fna&oh=00_AfCPJvpK5-3AeSxcbqC67uRjb_Iaz60bjLO9unude7yD5g&oe=6578A080');
   background-position: top;
   background-attachment: fixed;
@@ -100,7 +100,7 @@ section {
 }
 
 .section-header p {
-  color: wheat;
+  color:  rgb(178, 141, 71);;
   margin: 0;
   font-size: 48px;
   font-weight: 400;
@@ -828,7 +828,7 @@ section {
 .stats-counter {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
   padding: 80px 0;
-  background-image: url("/workspace/narayanaya-buck/namo_narayanaya/src/configure/assets/img/album/start_55.png");
+  background-image: url("//namo_narayanaya/src/configure/assets/img/album/start_55.png");
   background-position: top;
   background-attachment: fixed;
   background-size: cover;
@@ -967,7 +967,7 @@ section {
 # Testimonials Section
 --------------------------------------------------------------*/
 .testimonials{
-  background-image: url("/workspace/narayanaya-buck/namo_narayanaya/src/configure/assets/img/album/start_13.jpeg");
+  background-image: url("//namo_narayanaya/src/configure/assets/img/album/start_13.jpeg");
   background-position: center;
   background-attachment: scroll;
   background-size: 70%;
@@ -1036,7 +1036,7 @@ section {
 
 .testimonials .testimonial-item p {
   font-style: italic;
-  color: wheat;
+  color: rgb(178, 141, 71);
 }
 
 .testimonials .swiper-pagination {
